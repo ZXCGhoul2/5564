@@ -1,0 +1,12 @@
+using System;
+
+namespace ConsoleApp1202ih
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("I’m Kaneki Ken, and I’m not a monkey");
+        }
+    }
+}
